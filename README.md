@@ -18,7 +18,7 @@ Note: These instructions are for Windows machines only, and require [npm](https:
 #### Clone this repository.
 
 ```
-git clone https://github.com/warburec/Generalised-Compilation.git
+git clone https://github.com/SystemWorkflows/WoT-system-node.git
 ```
 
 #### Install system-node to your Node-RED installation.
