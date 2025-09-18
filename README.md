@@ -79,8 +79,8 @@ Make a pull request. Make an issue for large changes.
 
 ## Contributors
 
-<a href="https://github.com/warburec//Node-RED-System-Node/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=warburec//Node-RED-System-Node" />
+<a href="https://github.com/SystemWorkflows/WoT-system-node/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SystemWorkflows/WoT-system-node" />
 </a>
 
 ## License
